@@ -12,4 +12,6 @@
 * BT5: tạo nhánh mới, dùng merge với nhánh master-merge, push code lên repo
 * BT6: tạo nhánh mới, dùng rebase với nhánh master-rebase, push code lên repo
 
+# Kết thúc
 
+# Có con chim vành khuyên nhỏ
